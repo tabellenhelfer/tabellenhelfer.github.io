@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tabellenhelfer.github.io/sitemap.xml
